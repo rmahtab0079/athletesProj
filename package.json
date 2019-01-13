@@ -1,0 +1,19 @@
+{
+  "name": "athletesproj",
+  "version": "1.0.0",
+  "description": "A project where I will teach ImpactFellows how to implement a MongoDB database in express project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rmahtab0079/athletesProj.git"
+  },
+  "author": "Rageeb Mahtab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmahtab0079/athletesProj/issues"
+  },
+  "homepage": "https://github.com/rmahtab0079/athletesProj#readme"
+}
